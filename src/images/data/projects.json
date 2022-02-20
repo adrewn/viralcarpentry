@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Richard stair.",
+    "slug": "richard",
+    "category": ["staircase","glass railing"],
+    "description": "Viral team was work really hard to transform from a regular stair into a trendy stair with glass railing. The project took a bit longer but we are happy with the result.",
+    "img": {
+      "src": [
+        "https://i.ibb.co/TwkBP2n/missisauga-project2.jpg",
+        "https://i.ibb.co/vd9YbzB/missisauga-project.jpg",
+        "https://i.ibb.co/pzDTgS5/missisauga-project3.jpg"
+      ],
+      "orig": "https://i.ibb.co/TwkBP2n/missisauga-project2.jpg",
+      "author": "Viral Carpentry"
+    },
+    "amount": "Contact us",
+    "duration": "6 Calendar days",
+    "completionDate": "May. 20, 2020",
+    "owner": "Richard",
+    "address": "Missisauga",
+    "featured": true
+  },
+  {
+    "title": "Karen stair.",
+    "slug": "karen",
+    "category": ["stair","glass railing"],
+    "description": "Removing all the old steps and riser to install the new one. Matching the colour with the existing hardwood floor. Installing glass railing instead of pickets.",
+    "img": {
+      "src": [
+        "https://i.ibb.co/W5k16yv/glass-railing-toronto.jpg",
+        "https://i.ibb.co/7Kq12c5/glass-railing-toronto.jpg",
+        "https://i.ibb.co/t8chXL5/glass-railing-toronto.jpg"
+      ],
+      "orig": "https://i.ibb.co/W5k16yv/glass-railing-toronto.jpg",
+      "author": "Viral Carpentry"
+    },
+    "amount": "Contact us",
+    "duration": "5 Calendar days",
+    "completionDate": "Aug. 20, 2021",
+    "owner": "Karen",
+    "address": "Toronto",
+    "featured": true
+  },
+  {
+    "title": "Mark stair",
+    "slug": "mark",
+    "category": ["staircase"],
+    "description": "Sanded down the old colour and stained the same colour as new hardwood floor. New iron pickets were installed.",
+    "img": {
+      "src": [
+        "https://i.ibb.co/3Cwfp0d/milton-project.jpg",
+        "https://i.ibb.co/NStdC8W/milton-project2.jpg"
+      ],
+      "orig": "https://i.ibb.co/3Cwfp0d/milton-project.jpg",
+      "author": "Viral Carpentry"
+    },
+    "amount": "Contact us",
+    "duration": "6 Calendar days",
+    "completionDate": "May. 25, 2021",
+    "owner": "Mark",
+    "address": "Milton",
+    "featured": true
+  },
+  {
+    "title": "Brampton Project",
+    "slug": "brampton",
+    "category": ["staircase"],
+    "description": "Installed hardwood floor for the whole house and renovated the existing staircase.",
+    "img": {
+      "src": [
+        "https://i.ibb.co/N1mtNm4/IMG-1512.jpg",
+        "https://i.ibb.co/qgXjpbt/IMG-1511.jpg"
+      ],
+      "orig": "https://i.ibb.co/N1mtNm4/IMG-1512.jpg",
+      "author": "Viral Carpentry"
+    },
+    "amount": "Contact us",
+    "duration": "8 Calendar days",
+    "completionDate": "Dec. 20, 2021",
+    "address": "Brampton",
+    "featured": false
+  },
+  {
+    "title": "Laura stair.",
+    "slug": "laura",
+    "category": ["staircase"],
+    "description": "Jobsite is located in Pickering. Transformed carpet staircase into wooden one.",
+    "img": {
+      "src": [
+        "https://i.ibb.co/7GGXVWN/IMG-0858.jpg",
+        "https://i.ibb.co/ygCyLWK/IMG-0862.jpg",
+        "https://i.ibb.co/yQgp7vW/IMG-0856.jpg",
+        "https://i.ibb.co/fGQsMSW/IMG-0852.jpg"
+      ],
+      "orig": "https://i.ibb.co/7GGXVWN/IMG-0858.jpg",
+      "author": "Viral Carpentry"
+    },
+    "amount": "Contact us",
+    "duration": "4 Calendar days",
+    "completionDate": "July. 30, 2021",
+    "owner": "Laura",
+    "address": "Pickering",
+    "featured": false
+  },
+  {
+    "title": "Rebecca basement stair.",
+    "slug": "rebecca",
+    "category": ["staircase"],
+    "img": {
+      "src": [
+        "https://i.ibb.co/9gpd1tS/vaughan-stair2.jpg",
+        "https://i.ibb.co/6XfNjf0/vauhan-stair3.jpg",
+        "https://i.ibb.co/5LWD0R7/vaughan-stair.jpg"
+      ],
+      "orig": "https://i.ibb.co/9gpd1tS/vaughan-stair2.jpg",
+      "author": "Viral Carpentry"
+    },
+    "amount": "Contact us",
+    "duration": "3 Calendar days",
+    "completionDate": "Oct. 1, 2021",
+    "owner": "Rebecca",
+    "address": "Vaughan",
+    "featured": false
+  },
+  {
+    "title": "Sharon stair",
+    "slug": "sharon",
+    "category": ["staircase"],
+    "description": "Refinished the old staircase, transform wooden picket into iron picket.",
+    "img": {
+      "src": [
+        "https://i.ibb.co/fSJSTwD/brampton-area.jpg",
+        "https://i.ibb.co/mtBrTdR/brampton-hardwood.jpg"
+      ],
+      "orig": "https://i.ibb.co/fSJSTwD/brampton-area.jpg",
+      "author": "Viral Carpentry"
+    },
+    "amount": "Contact us",
+    "duration": "4 Calendar days",
+    "completionDate": "April. 2, 2021",
+    "owner": "Sharon",
+    "address": "Brampton",
+    "featured": false
+  }
+
+]
